@@ -10,13 +10,13 @@ door for the wall-wart power supply.
 
 I can change status messages from my web page.
 
-![](https://github.com/topherCantrell/OfficeDoorLCD/blob/master/art/Display.jpg)
+![](art/Display.jpg)
 
 I used a balsa frame to hold everything. The RF Engine is mounted on a break-out board that has a built-on
 3.3V power regulator. You can see the black power-jack on the right side of the frame and the blue push-button
 on the left side.
 
-![](https://github.com/topherCantrell/OfficeDoorLCD/blob/master/art/display5.jpg)
+![](art/display5.jpg)
 
 Here is the wiring chart:
 
@@ -33,10 +33,10 @@ Here is the wiring chart:
 Here is a close-up of the final assembly. You can see the "F" antenna on the RFEngine sticking out the left
 side (the bottom of the display).
 
-![](https://github.com/topherCantrell/OfficeDoorLCD/blob/master/art/display4.jpg)
+![](art/display4.jpg)
 
 Here is the display mounted to my door:
 
-![](https://github.com/topherCantrell/OfficeDoorLCD/blob/master/art/display3.jpg)
+![](art/display3.jpg)
 
-![](https://github.com/topherCantrell/OfficeDoorLCD/blob/master/art/display2.jpg)
+![](art/display2.jpg)
